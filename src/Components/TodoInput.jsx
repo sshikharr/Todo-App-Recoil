@@ -1,4 +1,4 @@
-import { useRecoilState, useSetRecoilState } from "recoil";
+import { useSetRecoilState } from "recoil";
 import { description1, title1 } from "../Store/recoilLogic";
 
 function TodoInput(){
